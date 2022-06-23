@@ -60,12 +60,21 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-181717?style=flat-square&logo=bitbucket)
 
 <details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=parvizansaryan&show_icons=true&theme=gotham" alt="parvizansaryan" />
-    <br>
-    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizansaryan&hide=html,&hide_border=true&theme=gotham"
-</p>
+  <summary>Click for GitHub Stats</summary>
+  <p align="center">
+    <span align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=parvizansaryan&show_icons=true&include_all_commits=true&theme=radical" alt="parvizansaryan's github stats" />
+    </span>
+    <span align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizansaryan&layout=compact&theme=radical" />
+    </span>
+  </p>
+  <br />
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parvizansaryan&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parvizansaryan&theme=github_dark)
+<!--   ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=parvizansaryan) -->
+  
 </details>
 
 ## 🏆 GitHub Trophies
