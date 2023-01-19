@@ -6,8 +6,8 @@
 </p>
 
 [![Linkedin: parvizansaryan](https://img.shields.io/badge/-parvizansaryan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parvizansaryan)](https://www.linkedin.com/in/parvizansaryan)
-[![GitHub parvizansaryan](https://img.shields.io/github/followers/parvizansaryan?label=follow&style=social)](https://github.com/parvizansaryan)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=parvizansaryan)
+[![GitHub ansaryanparviz](https://img.shields.io/github/followers/ansaryanparviz?label=follow&style=social)](https://github.com/ansaryanparviz)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ansaryanparviz)
 [![Instagram Badge](https://img.shields.io/badge/-parvizansaryan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/parvizansaryan/)](https://instagram.com/parvizansaryan "Follow on Instagram")
 [![Gmail Badge](https://img.shields.io/badge/-parviz.ansaryan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parviz.ansaryan@gmail.com)](mailto:parviz.ansaryan@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -63,22 +63,22 @@
   <summary>Click for GitHub Stats</summary>
   <p align="center">
     <span align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=parvizansaryan&show_icons=true&include_all_commits=true&theme=radical" alt="parvizansaryan's github stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ansaryanparviz&show_icons=true&include_all_commits=true&theme=radical" alt="parvizansaryan's github stats" />
     </span>
     <span align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizansaryan&layout=compact&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansaryanparviz&layout=compact&theme=radical" />
     </span>
   </p>
   <br />
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parvizansaryan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parvizansaryan&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansaryanparviz&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansaryanparviz&theme=github_dark)
 <!--   ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=parvizansaryan) -->
   
 </details>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=parvizansaryan&theme=darkhub&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ansaryanparviz&theme=darkhub&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Profile last updated](https://img.shields.io/github/last-commit/parvizansaryan/parvizansaryan/main?label=Last%20updated&style=flat)](https://github.com/parvizansaryan/parvizansaryan/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/ansaryanparviz/ansaryanparviz/main?label=Last%20updated&style=flat)](https://github.com/ansaryanparviz/ansaryanparviz/commits)
